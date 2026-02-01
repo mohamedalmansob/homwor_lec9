@@ -1,4 +1,9 @@
-.hed {
-    background-color: blue;
-    height: 300px;
-}
+ .hed {
+     background-color: blue;
+     height: 300px;
+ }
+ 
+ .content {
+     background-color: aqua;
+     height: 200px;
+ }
